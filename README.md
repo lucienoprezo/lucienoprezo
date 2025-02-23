@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @lucienoprezo
-- 👀 I’m interested in frontend
+- 👀 I’m interested in frontend, microcontroller(arduino,rbpi,esp & etc)
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on -
-- 📫 How to reach me -
+- 📫 How to reach me telegram/inst: @lucieno_prezo
 - 😄 Pronouns: croisant
 - ⚡ Fun fact: -
 
